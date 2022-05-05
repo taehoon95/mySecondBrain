@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "0414f849f0b875dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "50dce753ff75289d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.inbox/(문제)두개뽑아서더하기.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a360e1848f5b78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d15770106ccd51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4414c6ec389fd26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1170dfe872423d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.0036334991455
+  },
+  "right": {
+    "id": "bbfd3edf4f42146e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5042e550c3924e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899d41af50287e94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.inbox/(문제)두개뽑아서더하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6514f6e302b22d68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0.inbox/(문제)두개뽑아서더하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49878feed919de03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "50dce753ff75289d",
+  "lastOpenFiles": [
+    "0.inbox/(문제)두개뽑아서더하기.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)3진법뒤집기.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)예산.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)k번째수.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)완주하지 못한 선수.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)최소직사각형.md",
+    "코딩테스트/알고리즘/에라토네스의 체.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)소수찾기.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)문자열 내 마음대로 정렬하기.md",
+    "코딩테스트/프로그래머스문제/1레벨/(문제)나누어떨어지는숫자배열.md"
+  ]
+}
